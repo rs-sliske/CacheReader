@@ -4,4 +4,4 @@ rs*.js
 /images
 /item.tab
 /items.xlsx
-/src/Main.java
+*.class

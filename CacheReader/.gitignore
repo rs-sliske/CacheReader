@@ -1,7 +1,0 @@
-*.packed
-packed
-rs*.js
-/images
-/item.tab
-/items.xlsx
-*.class
